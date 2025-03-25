@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #5b1899;
+    text-align: center;
+}
+
+h1 {
+    color: #8fb11e;
+p{
+    font-size: 50px;
+}
+ 
+}
+h2{
+    color:#8fb11e
+}
+
+h5{
+    color:#8fb11e
+}
+h6{
+    color:#8fb11e
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+form {
+    margin-top: 20px;
+}
